@@ -10,7 +10,7 @@
          processIsolation="false"
          stopOnFailure="false">
     <testsuites>
-        <testsuite name="midorikocak Test Suite">
+        <testsuite name=":vendor Test Suite">
             <directory>tests</directory>
         </testsuite>
     </testsuites>
